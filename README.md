@@ -1,4 +1,4 @@
-# Resume Builder Website
+# Career Crafters
 
 Welcome to our Resume Builder Website! Our website allows users to easily create professional and personalized resumes.
 
