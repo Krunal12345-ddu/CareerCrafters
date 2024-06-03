@@ -15,7 +15,7 @@ const Theme1 = (props) => {
     const { workTitles, workDesc } = themeData.workData;
     const { awards } = themeData.awardData;
     return (
-        <>
+        <></>
             <Box id="section-to-print" ref={componentRef}>
                 <Box _dark={{ border: '1px solid white' }} id="theme1">
                     {/* Personal Info  */}
